@@ -1,0 +1,16 @@
+{
+  "client_id": "https://raw.githubusercontent.com/gbtec-philippkusmierz/cimd-metadata/main/mcp-inspector/metadata.json",
+  "client_name": "MCP Inspector",
+  "redirect_uris": [
+    "http://localhost:6274/oauth/callback",
+    "http://localhost:6274/oauth/callback/debug"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
