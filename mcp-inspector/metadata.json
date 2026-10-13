@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/gbtec-philippkusmierz/cimd-metadata/main/mcp-inspector/metadata.json",
+  "client_id": "https://raw.githubusercontent.com/gbtec-philippkusmierz/cimd-metadata/refs/heads/main/mcp-inspector/metadata.json",
   "client_name": "MCP Inspector",
   "redirect_uris": [
     "http://localhost:6274/oauth/callback",
